@@ -12,10 +12,10 @@ MATLAB scripts for calculating the extraction efficiency from spatial power-moni
 
 For each simulation, the scripts read the normal power density on a two-dimensional spatial monitor. The extraction efficiency is evaluated numerically as
 
-\begin{equation}
+$$
 \eta_{\mathrm{ext}} \approx f_{\mathrm{sym}}
 \sum_{i,j} P_{ij} M_{ij}\Delta x\Delta y,
-\end{equation}
+$$
 
 where \(P_{ij}\) is the power density at each monitor point, \(M_{ij}\) is the circular collection mask, \(f_{\mathrm{sym}}\) is the symmetry factor, and \(\Delta x\) and \(\Delta y\) are the monitor-grid spacings.
 
