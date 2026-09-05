@@ -1,0 +1,14 @@
+# Local RSoft data and generated results
+data/*
+!data/README.md
+results/
+
+# MATLAB temporary and generated files
+*.asv
+*.autosave
+*.fig
+*.m~
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
