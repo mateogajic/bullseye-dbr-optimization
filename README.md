@@ -86,9 +86,38 @@ being silently padded or truncated.
 
 ## Citation
 
-If you use this software, please cite the archived release described in
-`CITATION.cff`. A version-specific DOI will be added after the first release is
-archived in Zenodo.
+If you use this software, please cite the corresponding archived release.
+Citation metadata are provided in `CITATION.cff`.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22554284.svg)](https://doi.org/10.5281/zenodo.22554284)
+
+## Authors and contributions
+
+- **Mateo Gajic Sales:** software development, adaptation and extension of the
+  original scripts, validation, data analysis, visualization, and repository
+  maintenance.
+- **Fernando Martín Romero:** original software implementation and computational
+  methodology.
+- **Víctor Jesús Gómez Hernández:** conceptualization, scientific supervision,
+  project administration, and funding acquisition.
+
+## Funding and acknowledgements
+
+This software was developed at the Nanophotonics Technology Center (NTC) of
+the Universitat Politècnica de València within the framework of the ZEUS
+project, funded by the European Union under grant agreement No. 101161465,
+and the MERLIN project (PID2024-162261NB-I00), funded by
+MICIU/AEI/10.13039/501100011033 and by the European Regional Development Fund,
+European Union. The work reported here was conducted under the supervision of
+Prof. Víctor J. Gómez, who leads the associated activities at the NTC.
+
+The work was also supported by the GABRIEL project (CNS2023-145093), funded
+by the Agencia Estatal de Investigación of the Ministerio de Ciencia,
+Innovación y Universidades through MICIU/AEI/10.13039/501100011033 and by the
+European Union NextGenerationEU/PRTR. Laura Monge Bartolomé acknowledges
+financial support from the Generalitat Valenciana under grant
+CIAPOS/2024/307, and Fernando Martín-Romero acknowledges financial support
+from the Generalitat Valenciana under grant CIACIF/2022/188.
 
 ## License
 
