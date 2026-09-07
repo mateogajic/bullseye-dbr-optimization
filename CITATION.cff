@@ -4,9 +4,32 @@ title: "MATLAB code for the optimization of a DBR-backed Bullseye structure"
 authors:
   - family-names: "Gajic Sales"
     given-names: "Mateo"
-version: 1.0.0
+    affiliation: "Nanophotonics Technology Center, Universitat Politècnica de València"
+
+  - family-names: "Martín-Romero"
+    given-names: "Fernando"
+    affiliation: "Nanophotonics Technology Center, Universitat Politècnica de València"
+    orcid: "https://orcid.org/0009-0003-0930-3921"
+
+  - family-names: "Gómez Hernández"
+    given-names: "Víctor Jesús"
+    affiliation: "Nanophotonics Technology Center, Universitat Politècnica de València"
+
+version: 1.0.1
 date-released: 2026-09-07
 url: "https://github.com/mateogajic/bullseye-dbr-optimization"
 type: software
 license: MIT
 repository-code: "https://github.com/mateogajic/bullseye-dbr-optimization"
+
+abstract: >-
+  MATLAB scripts for calculating extraction efficiency from RSoft spatial
+  power-monitor files and analyzing single- and double-parameter sweeps of a
+  DBR-backed Bullseye structure.
+
+keywords:
+  - MATLAB
+  - RSoft
+  - extraction efficiency
+  - Bullseye resonator
+  - distributed Bragg reflector
